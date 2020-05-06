@@ -11,7 +11,7 @@ Introduction:
 
 Please consider citing our work appropriately if this code is useful for you. Thanks :)
 
-In revision...
+Under journal revision...
 
 
 For more questions, please feel free to contact us.
