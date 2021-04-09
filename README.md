@@ -11,7 +11,7 @@ Introduction:
 
 Please consider citing our work appropriately if this code is useful for you. Thanks :)
 
-Under journal revision...
+S. Salazar-Colores, E. U. Moya-Sánchez, J. -M. Ramos-Arreguín, E. Cabal-Yépez, G. Flores and U. Cortés, "Fast Single Image Defogging With Robust Sky Detection," in IEEE Access, vol. 8, pp. 149176-149189, 2020, doi: 10.1109/ACCESS.2020.3015724.
 
 
 For more questions, please feel free to contact us.
